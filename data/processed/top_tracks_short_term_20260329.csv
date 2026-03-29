@@ -1,51 +1,51 @@
 rank,track,artist,album,duration_sec,explicit,spotify_url,extracted_at,time_range,duration_fmt
-1,Chichabeba,La Obsesion,"LA OBSESION, VOL. 1",131,True,https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g,2026-03-29 14:07:34.450198,short_term,2:11
-2,L'AMOUR,Kidd Keo,L'AMOUR,129,True,https://open.spotify.com/track/7kjueSsuNBXj15wgSW19eC,2026-03-29 14:07:34.450198,short_term,2:09
-3,Fancy,Yeyo,Fancy,172,True,https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv,2026-03-29 14:07:34.450198,short_term,2:52
-4,Love Me,Lil Wayne,I Am Not A Human Being II (Deluxe),255,True,https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg,2026-03-29 14:07:34.450198,short_term,4:15
-5,HOPE (with TALE$),Kidd Keo,HOPE (with TALE$),159,False,https://open.spotify.com/track/79X7BhWIBGSjChXPjkJcvQ,2026-03-29 14:07:34.450198,short_term,2:39
-6,Frazadas,VisarraSSJ,Frazadas,249,True,https://open.spotify.com/track/3GLKueill7EmhtRxoU7H01,2026-03-29 14:07:34.450198,short_term,4:09
-7,Nudes,KHEA,TAROT: Del cielo al infierno,153,True,https://open.spotify.com/track/5PZAdicPf8WfcB2Gsfh8p0,2026-03-29 14:07:34.450198,short_term,2:33
-8,Porque Te Mientes (feat. Gadiel & Bryant Myers),Trap Capos,Trap Capos II,200,True,https://open.spotify.com/track/0Ks2NJH2PCxyWAFPlI4p9B,2026-03-29 14:07:34.450198,short_term,3:20
-9,Me Mareo,Kidd Voodoo,SATIROLOGÍA (DELUXE EDITION),168,True,https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr,2026-03-29 14:07:34.450198,short_term,2:48
-10,Coco Chanel,Eladio Carrion,3MEN2 KBRN,208,True,https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS,2026-03-29 14:07:34.450198,short_term,3:28
-11,INNECESARIO,Reolid,INNECESARIO,195,False,https://open.spotify.com/track/05q4ntqrPKwHYwV3JxAoM3,2026-03-29 14:07:34.450198,short_term,3:15
-12,Voices (Randy Orton),WWE,WWE: WrestleMania - The Music 2013,204,False,https://open.spotify.com/track/3xufMoKtkjMbZmVhgB2MZc,2026-03-29 14:07:34.450198,short_term,3:24
-13,Vacio,Almighty,Vacio,247,True,https://open.spotify.com/track/3HoZTyT6zXnyDkiVUQRO9N,2026-03-29 14:07:34.450198,short_term,4:07
-14,Celine (with Kidd Keo),Ghost Killer Track,Celine (with Kidd Keo),176,False,https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66,2026-03-29 14:07:34.450198,short_term,2:56
-15,"Bandida bandida, no me odies por que llevo mala vida",jccamiloo,"Bandida bandida, no me odies por que llevo mala vida",121,True,https://open.spotify.com/track/3ZAhIzGS0Y5KTc4lSyyjwg,2026-03-29 14:07:34.450198,short_term,2:01
-16,Tocado y hundido,Melendi,Un alumno más,211,False,https://open.spotify.com/track/1w56puP15nqOK4yr8776dY,2026-03-29 14:07:34.450198,short_term,3:31
-17,LHNA,RobGz,LHNA,200,True,https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5,2026-03-29 14:07:34.450198,short_term,3:20
-18,Sucio Guapo,Kidd Keo,Sucio Guapo,208,True,https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh,2026-03-29 14:07:34.450198,short_term,3:28
-19,Vuela Corazón,Dasoul,Vuela Corazón,218,False,https://open.spotify.com/track/5JUQck3tWdZxpRkh1lIFpF,2026-03-29 14:07:34.450198,short_term,3:38
-20,Burbujas de Cristal,Cartel De Santa,Burbujas de Cristal,224,True,https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa,2026-03-29 14:07:34.450198,short_term,3:44
-21,Orgullo,Justin Quiles,Orgullo,200,False,https://open.spotify.com/track/7ca2Td5BdpuTXKpSPS0exv,2026-03-29 14:07:34.450198,short_term,3:20
-22,Diamante en Bruto,C.R.O,Malos Cantores,175,True,https://open.spotify.com/track/4s8JigQIXjce6RpsInu8No,2026-03-29 14:07:34.450198,short_term,2:55
-23,Behind Me,C.R.O,Behind Me,299,True,https://open.spotify.com/track/2G8sPU3IlxV8eFKLVqir2u,2026-03-29 14:07:34.450198,short_term,4:59
-24,Con Otra,KHEA,TAROT: Del cielo al infierno,221,True,https://open.spotify.com/track/1NhvH0qdOuuFncWGAIXxTg,2026-03-29 14:07:34.450198,short_term,3:41
-25,Copa rota,Los Rodriguez,Disco Pirata,268,False,https://open.spotify.com/track/5D6kjB443NQaATghyE6b4o,2026-03-29 14:07:34.450198,short_term,4:28
-26,Percocet (Remix),Alex Rose,Percocet (Remix),314,True,https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF,2026-03-29 14:07:34.450198,short_term,5:14
-27,Talento,Yan Block,Talento,150,True,https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg,2026-03-29 14:07:34.450198,short_term,2:30
-28,secuestro,Slayter,dile no a las drogas,194,True,https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw,2026-03-29 14:07:34.450198,short_term,3:14
-29,Cheque al portamor,Melendi,Lágrimas desordenadas,295,False,https://open.spotify.com/track/2FhLn92NDtRW6hKJvj9yX5,2026-03-29 14:07:34.450198,short_term,4:55
-30,Instante,C.R.O,Instante,194,False,https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd,2026-03-29 14:07:34.450198,short_term,3:14
-31,Bastardo (feat. Ñengo Flow & Jere Klein),Pablo Chill-E,Los Gangsters Tambien Lloran,264,True,https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI,2026-03-29 14:07:34.450198,short_term,4:24
-32,Chapiadora,Cazzu,Chapiadora,209,False,https://open.spotify.com/track/04QLFxiUzVVD6kFekO0FIZ,2026-03-29 14:07:34.450198,short_term,3:29
-33,La parte de adelante,Andrés Calamaro,Honestidad Brutal,261,False,https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp,2026-03-29 14:07:34.450198,short_term,4:21
-34,2 PUÑALAITAS (de Andalucía),Cristina Lora,2 PUÑALAITAS (de Andalucía),175,False,https://open.spotify.com/track/19FOoq7R0ULz8bamEpOprK,2026-03-29 14:07:34.450198,short_term,2:55
-35,Ha Vuelto el Matador,Cacho Castaña,Sus Mejores Canciones,183,False,https://open.spotify.com/track/1fHcqjYW6Ie9YiLpQnACmC,2026-03-29 14:07:34.450198,short_term,3:03
-36,Casi un G,YSY A,Casi un G,139,False,https://open.spotify.com/track/1wY7YlavH2C0U1HfR07XvZ,2026-03-29 14:07:34.450198,short_term,2:19
-37,Esclava - Remix,Bryant Myers,Esclava (Remix),281,False,https://open.spotify.com/track/2Mgur7BKnpr7OG3izSNFTA,2026-03-29 14:07:34.450198,short_term,4:41
-38,Cuantas veces,C.R.O,Otra vez en tus ruinas,172,False,https://open.spotify.com/track/3MznYQPob11VT0AECBxcrX,2026-03-29 14:07:34.450198,short_term,2:52
-39,Si Te Agarro Con Otro Te Mato,Cacho Castaña,Sus Mejores Canciones,167,False,https://open.spotify.com/track/6zlSiA9ySn6l5VXt8fziOi,2026-03-29 14:07:34.450198,short_term,2:47
-40,Miss U,Kidd Keo,Keoland,259,True,https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1,2026-03-29 14:07:34.450198,short_term,4:19
-41,Más Roto,Seven Kayne,Secretos Escondidos,164,False,https://open.spotify.com/track/72EJQAAPHJYe0e12xVFhpp,2026-03-29 14:07:34.450198,short_term,2:44
-42,Más Cara,Bad Gyal,Más Cara,155,False,https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ,2026-03-29 14:07:34.450198,short_term,2:35
-43,Moon Talk,Kidd Keo,BACK TO ROCKPORT,184,True,https://open.spotify.com/track/3ivnBohmIbZFrtzGkSqUtN,2026-03-29 14:07:34.450198,short_term,3:04
-44,Problema (with Luar La L),Dei V,Underwater,202,True,https://open.spotify.com/track/3rpfSCKQ9Lrbh9MVxUsV1e,2026-03-29 14:07:34.450198,short_term,3:22
-45,50 Sombras de Austin,Arcángel,Los Favoritos,195,False,https://open.spotify.com/track/4TEsxeAmTkbZsQ7S70le6z,2026-03-29 14:07:34.450198,short_term,3:15
-46,2PA2,Los Diozes,HOTEL MALIGNO,118,True,https://open.spotify.com/track/5CcZI8tcPhKpJm7GCJjkRt,2026-03-29 14:07:34.450198,short_term,1:58
-47,444,Yan Block,444,175,True,https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI,2026-03-29 14:07:34.450198,short_term,2:55
-48,111,Yan Block,111,153,True,https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ,2026-03-29 14:07:34.450198,short_term,2:33
-49,PINKY PROMISE 2,La Pantera,PINKY PROMISE 2,181,False,https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn,2026-03-29 14:07:34.450198,short_term,3:01
-50,Les,Childish Gambino,Camp,317,True,https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4,2026-03-29 14:07:34.450198,short_term,5:17
+1,Chichabeba,La Obsesion,"LA OBSESION, VOL. 1",131,True,https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g,2026-03-29 12:24:12.266574,short_term,2:11
+2,L'AMOUR,Kidd Keo,L'AMOUR,129,True,https://open.spotify.com/track/7kjueSsuNBXj15wgSW19eC,2026-03-29 12:24:12.266574,short_term,2:09
+3,Fancy,Yeyo,Fancy,172,True,https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv,2026-03-29 12:24:12.266574,short_term,2:52
+4,Love Me,Lil Wayne,I Am Not A Human Being II (Deluxe),255,True,https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg,2026-03-29 12:24:12.266574,short_term,4:15
+5,HOPE (with TALE$),Kidd Keo,HOPE (with TALE$),159,False,https://open.spotify.com/track/79X7BhWIBGSjChXPjkJcvQ,2026-03-29 12:24:12.266574,short_term,2:39
+6,Frazadas,VisarraSSJ,Frazadas,249,True,https://open.spotify.com/track/3GLKueill7EmhtRxoU7H01,2026-03-29 12:24:12.266574,short_term,4:09
+7,Nudes,KHEA,TAROT: Del cielo al infierno,153,True,https://open.spotify.com/track/5PZAdicPf8WfcB2Gsfh8p0,2026-03-29 12:24:12.266574,short_term,2:33
+8,Porque Te Mientes (feat. Gadiel & Bryant Myers),Trap Capos,Trap Capos II,200,True,https://open.spotify.com/track/0Ks2NJH2PCxyWAFPlI4p9B,2026-03-29 12:24:12.266574,short_term,3:20
+9,Me Mareo,Kidd Voodoo,SATIROLOGÍA (DELUXE EDITION),168,True,https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr,2026-03-29 12:24:12.266574,short_term,2:48
+10,Coco Chanel,Eladio Carrion,3MEN2 KBRN,208,True,https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS,2026-03-29 12:24:12.266574,short_term,3:28
+11,INNECESARIO,Reolid,INNECESARIO,195,False,https://open.spotify.com/track/05q4ntqrPKwHYwV3JxAoM3,2026-03-29 12:24:12.266574,short_term,3:15
+12,Voices (Randy Orton),WWE,WWE: WrestleMania - The Music 2013,204,False,https://open.spotify.com/track/3xufMoKtkjMbZmVhgB2MZc,2026-03-29 12:24:12.266574,short_term,3:24
+13,Vacio,Almighty,Vacio,247,True,https://open.spotify.com/track/3HoZTyT6zXnyDkiVUQRO9N,2026-03-29 12:24:12.266574,short_term,4:07
+14,Celine (with Kidd Keo),Ghost Killer Track,Celine (with Kidd Keo),176,False,https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66,2026-03-29 12:24:12.266574,short_term,2:56
+15,"Bandida bandida, no me odies por que llevo mala vida",jccamiloo,"Bandida bandida, no me odies por que llevo mala vida",121,True,https://open.spotify.com/track/3ZAhIzGS0Y5KTc4lSyyjwg,2026-03-29 12:24:12.266574,short_term,2:01
+16,Tocado y hundido,Melendi,Un alumno más,211,False,https://open.spotify.com/track/1w56puP15nqOK4yr8776dY,2026-03-29 12:24:12.266574,short_term,3:31
+17,LHNA,RobGz,LHNA,200,True,https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5,2026-03-29 12:24:12.266574,short_term,3:20
+18,Sucio Guapo,Kidd Keo,Sucio Guapo,208,True,https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh,2026-03-29 12:24:12.266574,short_term,3:28
+19,Vuela Corazón,Dasoul,Vuela Corazón,218,False,https://open.spotify.com/track/5JUQck3tWdZxpRkh1lIFpF,2026-03-29 12:24:12.266574,short_term,3:38
+20,Burbujas de Cristal,Cartel De Santa,Burbujas de Cristal,224,True,https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa,2026-03-29 12:24:12.266574,short_term,3:44
+21,Orgullo,Justin Quiles,Orgullo,200,False,https://open.spotify.com/track/7ca2Td5BdpuTXKpSPS0exv,2026-03-29 12:24:12.266574,short_term,3:20
+22,Diamante en Bruto,C.R.O,Malos Cantores,175,True,https://open.spotify.com/track/4s8JigQIXjce6RpsInu8No,2026-03-29 12:24:12.266574,short_term,2:55
+23,Behind Me,C.R.O,Behind Me,299,True,https://open.spotify.com/track/2G8sPU3IlxV8eFKLVqir2u,2026-03-29 12:24:12.266574,short_term,4:59
+24,Con Otra,KHEA,TAROT: Del cielo al infierno,221,True,https://open.spotify.com/track/1NhvH0qdOuuFncWGAIXxTg,2026-03-29 12:24:12.266574,short_term,3:41
+25,Copa rota,Los Rodriguez,Disco Pirata,268,False,https://open.spotify.com/track/5D6kjB443NQaATghyE6b4o,2026-03-29 12:24:12.266574,short_term,4:28
+26,Percocet (Remix),Alex Rose,Percocet (Remix),314,True,https://open.spotify.com/track/7jFl7qbhtGg81SkszfgVGF,2026-03-29 12:24:12.266574,short_term,5:14
+27,Talento,Yan Block,Talento,150,True,https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg,2026-03-29 12:24:12.266574,short_term,2:30
+28,secuestro,Slayter,dile no a las drogas,194,True,https://open.spotify.com/track/3I4YGWwJoqBdBGVnkRjnVw,2026-03-29 12:24:12.266574,short_term,3:14
+29,Cheque al portamor,Melendi,Lágrimas desordenadas,295,False,https://open.spotify.com/track/2FhLn92NDtRW6hKJvj9yX5,2026-03-29 12:24:12.266574,short_term,4:55
+30,Instante,C.R.O,Instante,194,False,https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd,2026-03-29 12:24:12.266574,short_term,3:14
+31,Bastardo (feat. Ñengo Flow & Jere Klein),Pablo Chill-E,Los Gangsters Tambien Lloran,264,True,https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI,2026-03-29 12:24:12.266574,short_term,4:24
+32,Chapiadora,Cazzu,Chapiadora,209,False,https://open.spotify.com/track/04QLFxiUzVVD6kFekO0FIZ,2026-03-29 12:24:12.266574,short_term,3:29
+33,La parte de adelante,Andrés Calamaro,Honestidad Brutal,261,False,https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp,2026-03-29 12:24:12.266574,short_term,4:21
+34,2 PUÑALAITAS (de Andalucía),Cristina Lora,2 PUÑALAITAS (de Andalucía),175,False,https://open.spotify.com/track/19FOoq7R0ULz8bamEpOprK,2026-03-29 12:24:12.266574,short_term,2:55
+35,Ha Vuelto el Matador,Cacho Castaña,Sus Mejores Canciones,183,False,https://open.spotify.com/track/1fHcqjYW6Ie9YiLpQnACmC,2026-03-29 12:24:12.266574,short_term,3:03
+36,Casi un G,YSY A,Casi un G,139,False,https://open.spotify.com/track/1wY7YlavH2C0U1HfR07XvZ,2026-03-29 12:24:12.266574,short_term,2:19
+37,Esclava - Remix,Bryant Myers,Esclava (Remix),281,False,https://open.spotify.com/track/2Mgur7BKnpr7OG3izSNFTA,2026-03-29 12:24:12.266574,short_term,4:41
+38,Cuantas veces,C.R.O,Otra vez en tus ruinas,172,False,https://open.spotify.com/track/3MznYQPob11VT0AECBxcrX,2026-03-29 12:24:12.266574,short_term,2:52
+39,Si Te Agarro Con Otro Te Mato,Cacho Castaña,Sus Mejores Canciones,167,False,https://open.spotify.com/track/6zlSiA9ySn6l5VXt8fziOi,2026-03-29 12:24:12.266574,short_term,2:47
+40,Miss U,Kidd Keo,Keoland,259,True,https://open.spotify.com/track/17NW5LLmN6PXrUdknZ6iT1,2026-03-29 12:24:12.266574,short_term,4:19
+41,Más Roto,Seven Kayne,Secretos Escondidos,164,False,https://open.spotify.com/track/72EJQAAPHJYe0e12xVFhpp,2026-03-29 12:24:12.266574,short_term,2:44
+42,Más Cara,Bad Gyal,Más Cara,155,False,https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ,2026-03-29 12:24:12.266574,short_term,2:35
+43,Moon Talk,Kidd Keo,BACK TO ROCKPORT,184,True,https://open.spotify.com/track/3ivnBohmIbZFrtzGkSqUtN,2026-03-29 12:24:12.266574,short_term,3:04
+44,Problema (with Luar La L),Dei V,Underwater,202,True,https://open.spotify.com/track/3rpfSCKQ9Lrbh9MVxUsV1e,2026-03-29 12:24:12.266574,short_term,3:22
+45,50 Sombras de Austin,Arcángel,Los Favoritos,195,False,https://open.spotify.com/track/4TEsxeAmTkbZsQ7S70le6z,2026-03-29 12:24:12.266574,short_term,3:15
+46,2PA2,Los Diozes,HOTEL MALIGNO,118,True,https://open.spotify.com/track/5CcZI8tcPhKpJm7GCJjkRt,2026-03-29 12:24:12.266574,short_term,1:58
+47,444,Yan Block,444,175,True,https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI,2026-03-29 12:24:12.266574,short_term,2:55
+48,111,Yan Block,111,153,True,https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ,2026-03-29 12:24:12.266574,short_term,2:33
+49,PINKY PROMISE 2,La Pantera,PINKY PROMISE 2,181,False,https://open.spotify.com/track/6hFzA2zbArwtGpmTQEsxnn,2026-03-29 12:24:12.266574,short_term,3:01
+50,Les,Childish Gambino,Camp,317,True,https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4,2026-03-29 12:24:12.266574,short_term,5:17
