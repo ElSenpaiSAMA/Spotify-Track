@@ -22,7 +22,7 @@ Python · Pandas · SQLite · Plotly · Spotipy · GitHub Actions
 
 ## Automated updates
 
-Every Monday at 9:00 UTC GitHub Actions kicks off the pipeline and commits the fresh chart and data back to the repo. The badge above turns red if something breaks.
+Every Monday at 9:00 GitHub Actions kicks off the pipeline and commits the fresh chart and data back to the repo. The badge above turns red if something breaks.
 
 ---
 
