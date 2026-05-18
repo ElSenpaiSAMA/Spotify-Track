@@ -1,0 +1,51 @@
+rank,track,artist,album,duration_sec,explicit,spotify_url,extracted_at,time_range,duration_fmt
+1,444 - Remix,Yan Block,444 (Remix),299,True,https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh,2026-05-18 12:20:58.925661,short_term,4:59
+2,Soy De La Lleca,Franky Style,V Anillos,167,True,https://open.spotify.com/track/3JhOvPAdkKfEZJV838uZwd,2026-05-18 12:20:58.925661,short_term,2:47
+3,Tragicomedia,Estopa,¿La Calle Es Tuya?,209,False,https://open.spotify.com/track/0P6f1wsiwEvl89jUosdJMt,2026-05-18 12:20:58.925661,short_term,3:29
+4,Cuantas veces,C.R.O,Otra vez en tus ruinas,172,False,https://open.spotify.com/track/3MznYQPob11VT0AECBxcrX,2026-05-18 12:20:58.925661,short_term,2:52
+5,Ella Te Las Va A Pegar (feat. Ele a el Dominio & Noriel),Jon Z,Voodoo,217,True,https://open.spotify.com/track/146AgwEEI6STqRZhKWdJbh,2026-05-18 12:20:58.925661,short_term,3:37
+6,Mi Puta,Ele A El Dominio,Mi Puta,219,True,https://open.spotify.com/track/1quBqWgWgUOwWma3mMasgf,2026-05-18 12:20:58.925661,short_term,3:39
+7,Maníaca,Abraham Mateo,Insomnio,175,False,https://open.spotify.com/track/2i2vRYY1K2t5vQjXRop7tE,2026-05-18 12:20:58.925661,short_term,2:55
+8,Cacho a Cacho,Estopa,Estopa,148,False,https://open.spotify.com/track/6VVBXRsXAuN5UvqKNw7j0l,2026-05-18 12:20:58.925661,short_term,2:28
+9,MEDUSA REMIX,Neo Pistea,MEDUSA REMIX,401,True,https://open.spotify.com/track/3whoNOYqaUJeDNfisAIojI,2026-05-18 12:20:58.925661,short_term,6:41
+10,Porque Te Mientes (feat. Gadiel & Bryant Myers),Trap Capos,Trap Capos II,200,True,https://open.spotify.com/track/0Ks2NJH2PCxyWAFPlI4p9B,2026-05-18 12:20:58.925661,short_term,3:20
+11,Smack That,Akon,Konvicted,212,True,https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5,2026-05-18 12:20:58.925661,short_term,3:32
+12,プロポーズ,9Lana,Let me battle,234,False,https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A,2026-05-18 12:20:58.925661,short_term,3:54
+13,El aire de la calle,Los Delinqüentes,El Sentimiento Garrapatero Que Nos Traen Las Flores,186,False,https://open.spotify.com/track/2PaETSKl3w3IdtLIbDnQXJ,2026-05-18 12:20:58.925661,short_term,3:06
+14,Vino Tinto,Estopa,Destrangis,198,False,https://open.spotify.com/track/15m2Op4d1ZtX0ScPaDNKcd,2026-05-18 12:20:58.925661,short_term,3:18
+15,Otra Mujer,Ñengo Flow,Otra Mujer,222,True,https://open.spotify.com/track/71sA6supZc8JEv8WhwgcyP,2026-05-18 12:20:58.925661,short_term,3:42
+16,Me has invitado a bailar,Dani Fernández,La Jauría,192,False,https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ,2026-05-18 12:20:58.925661,short_term,3:12
+17,El Día Que Tú Te Marches,Estopa,Estopía,208,False,https://open.spotify.com/track/4foCz4G0YlfwumjM4GnMee,2026-05-18 12:20:58.925661,short_term,3:28
+18,444,Yan Block,444,175,True,https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI,2026-05-18 12:20:58.925661,short_term,2:55
+19,Ya No Me Acuerdo,Estopa,¿La Calle Es Tuya?,170,False,https://open.spotify.com/track/1vHY8bEVI7Sg85xNMTDxXM,2026-05-18 12:20:58.925661,short_term,2:50
+20,QUEEN,Kanaria,QUEEN,141,False,https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs,2026-05-18 12:20:58.925661,short_term,2:21
+21,Con Otra,KHEA,TAROT: Del cielo al infierno,221,True,https://open.spotify.com/track/1NhvH0qdOuuFncWGAIXxTg,2026-05-18 12:20:58.925661,short_term,3:41
+22,Bossanova,Estopa,Estopa,196,False,https://open.spotify.com/track/26PQ2HSYlky6lK9MrvMZB8,2026-05-18 12:20:58.925661,short_term,3:16
+23,Billie Jean,Michael Jackson,Thriller,293,False,https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj,2026-05-18 12:20:58.925661,short_term,4:53
+24,Cobro,De La Rose,FX De La Rose,164,True,https://open.spotify.com/track/15od38niq4dicwFLduR8U4,2026-05-18 12:20:58.925661,short_term,2:44
+25,Por la Raja de Tu Falda,Estopa,Estopa,202,False,https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K,2026-05-18 12:20:58.925661,short_term,3:22
+26,Frances Limon,Los Enanitos Verdes,Amores Lejanos,317,False,https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw,2026-05-18 12:20:58.925661,short_term,5:17
+27,De Lejitos,Jay Wheeler,De Lejitos,207,True,https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8,2026-05-18 12:20:58.925661,short_term,3:27
+28,Smooth Criminal - 2012 Remaster,Michael Jackson,Bad (Remastered),257,False,https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j,2026-05-18 12:20:58.925661,short_term,4:17
+29,Sola,KHEA,Sola,199,True,https://open.spotify.com/track/0gWzYwxmq9JHXINJg5pndk,2026-05-18 12:20:58.925661,short_term,3:19
+30,Piratas del bar Caribe,Melendi,Yo me veo contigo,244,False,https://open.spotify.com/track/0kg0I1WPGAEIEbJ8wbJjKN,2026-05-18 12:20:58.925661,short_term,4:04
+31,Partiendo la Pana,Estopa,Destrangis,240,False,https://open.spotify.com/track/4BtggpHp17Ak3RP0LITrue,2026-05-18 12:20:58.925661,short_term,4:00
+32,De Lao a Lao,Dasoul,Si Me Porto Mal,210,False,https://open.spotify.com/track/00FACc7SXgRdodfCeBG8Su,2026-05-18 12:20:58.925661,short_term,3:30
+33,Doma,Jósean Log,Háblate de Mí,188,False,https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz,2026-05-18 12:20:58.925661,short_term,3:08
+34,Querido Amigo,Paulo Londra,Homerun,228,False,https://open.spotify.com/track/34w1ycoersTjtBsRQsKzgT,2026-05-18 12:20:58.925661,short_term,3:48
+35,TELEFONO NUEVO,Bad Bunny,nadie sabe lo que va a pasar mañana,354,True,https://open.spotify.com/track/01ppKlDRCmPpusO3yNrSRY,2026-05-18 12:20:58.925661,short_term,5:54
+36,Beauty And A Beat,Justin Bieber,Believe,227,False,https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7,2026-05-18 12:20:58.925661,short_term,3:47
+37,No Puedo Vivir Sin Ti,El Canto Del Loco,Por Mi y por Todos Mis Compañeros,214,False,https://open.spotify.com/track/3K8BeABgLXZ3JHhdM3rZBx,2026-05-18 12:20:58.925661,short_term,3:34
+38,Me Sigue,Kenny Die,Me Sigue,232,False,https://open.spotify.com/track/3HQmWqY1Jko3sG12pYSCOL,2026-05-18 12:20:58.925661,short_term,3:52
+39,Bailemos,Dani Fernández,Incendios,210,False,https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8,2026-05-18 12:20:58.925661,short_term,3:30
+40,"Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & Ñengo Flow)",Anuel AA,"Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & Ñengo Flow]",512,False,https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8,2026-05-18 12:20:58.925661,short_term,8:32
+41,Hotel,Vincez,Hotel,145,False,https://open.spotify.com/track/3mYduMKRkI7EDpWRJKmpUQ,2026-05-18 12:20:58.925661,short_term,2:25
+42,Self Aware,Temper City,Self Aware,180,False,https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT,2026-05-18 12:20:58.925661,short_term,3:00
+43,Historia de Taxi,Ricardo Arjona,Quién Dijo Ayer,402,False,https://open.spotify.com/track/4qmXbnmZxZy9pavpf3YfP5,2026-05-18 12:20:58.925661,short_term,6:42
+44,Aserejé,Grupo Arenas,Ritmo Latino,211,False,https://open.spotify.com/track/6yCM4N4v44c3xoMORrhLwW,2026-05-18 12:20:58.925661,short_term,3:31
+45,Hola - Remix,Dalex,Yo Te Quiero Pa Mi,249,False,https://open.spotify.com/track/17I27VXKtqXJHL6ReaG0eS,2026-05-18 12:20:58.925661,short_term,4:09
+46,Acércate,De La Ghetto,Acércate,228,False,https://open.spotify.com/track/2UTdgOtXy9Vwd9XKPMLHjd,2026-05-18 12:20:58.925661,short_term,3:48
+47,Maldita Abusadora,Paulo Londra,Homerun,250,False,https://open.spotify.com/track/2l7CpLcHxJeiWibGWftnew,2026-05-18 12:20:58.925661,short_term,4:10
+48,Hola beba,Cosculluela,Blanco Perla,278,False,https://open.spotify.com/track/4AUH1recgWhHM4368o1BuE,2026-05-18 12:20:58.925661,short_term,4:38
+49,Sola (Remix),Anuel AA,Sola (Remix),307,False,https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65,2026-05-18 12:20:58.925661,short_term,5:07
+50,Confident - Single Version,Justin Bieber,Journals,248,False,https://open.spotify.com/track/6czM6UMQD9qE5GAUp68oud,2026-05-18 12:20:58.925661,short_term,4:08
